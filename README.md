@@ -1,6 +1,10 @@
 # 🧠 Life Science AI Adoption Survey Dashboard
 
+## Project Overview
 This project focuses on analyzing survey data from Life Science organizations to understand their AI adoption patterns. The goal was to explore how different organizations are adopting AI, their budget allocations, challenges they face, and the perceived impact of AI on their operations.
+
+<img width="1920" height="1020" alt="Project explanation and presentation and 1 more page - Personal - Microsoft​ Edge 11-10-2025 22_10_41" src="https://github.com/user-attachments/assets/2ad791c6-1edb-4f73-a1e4-0f80e4f5f88f" />
+
 
 ## 📊 Tools Used
 - Jupyter Notebook
@@ -67,6 +71,8 @@ AI_level_counts = (
     .value_counts()
 )
 ```
+<img width="1920" height="1020" alt="Project explanation and presentation and 1 more page - Personal - Microsoft​ Edge 11-10-2025 22_09_36" src="https://github.com/user-attachments/assets/2d18918f-46eb-44f3-8d6f-c3488e43f4de" />
+
 - How do Challenges vary by AI adoption level or organization type?
 ```python
 # Split challenges and clean spaces
@@ -82,6 +88,8 @@ df_exploded.head()
 ```
 
 ## Results
+<img width="1920" height="1020" alt="Project explanation and presentation and 1 more page - Personal - Microsoft​ Edge 11-10-2025 22_11_58" src="https://github.com/user-attachments/assets/31f72313-ef1d-42f4-a3eb-9c10f2899d71" />
+<img width="1920" height="1020" alt="Project explanation and presentation and 1 more page - Personal - Microsoft​ Edge 11-10-2025 22_12_35" src="https://github.com/user-attachments/assets/6603ee5c-480e-41d0-8797-7a52de530306" />
 
 ## 🚀 Key Insights
 - 69% of organizations are at medium to high adoption levels, showing a mature AI landscape in the Life Sciences sector.
@@ -92,10 +100,12 @@ df_exploded.head()
 - Ethical concerns and budget constraints are the top challenges, followed by integration issues and talent shortages.
   
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+<img width="1920" height="1019" alt="Life Science AI-Survey Data 11-10-2025 21_41_51" src="https://github.com/user-attachments/assets/e272e812-0f24-46c4-adda-53a0a31d0dd8" />
+
 
 ## 📂 Files Included
-- `dataset.xlsx` – Sample dataset *(if included)*
+- [CaseStudy1_LifeScienceAI_SurveyData.xlsx](https://github.com/user-attachments/files/22871342/CaseStudy1_LifeScienceAI_SurveyData.xlsx)
+
 
 
 
