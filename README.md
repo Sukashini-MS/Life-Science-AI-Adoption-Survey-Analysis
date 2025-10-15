@@ -3,7 +3,8 @@
 ## Project Overview
 This project focuses on analyzing survey data from Life Science organizations to understand their AI adoption patterns. The goal was to explore how different organizations are adopting AI, their budget allocations, challenges they face, and the perceived impact of AI on their operations.
 
-<img width="1920" height="1020" alt="Project explanation and presentation and 1 more page - Personal - Microsoft​ Edge 11-10-2025 22_10_41" src="https://github.com/user-attachments/assets/2ad791c6-1edb-4f73-a1e4-0f80e4f5f88f" />
+<img width="1920" height="1019" alt="Life Science Project 15-10-2025 21_16_59" src="https://github.com/user-attachments/assets/32c1f855-32c2-4370-8efb-0a64a59ffc83" />
+
 
 
 ## 📊 Tools Used
@@ -34,6 +35,9 @@ EDA involved exploring the Survey data to answer key questions, such as:
 5.Most frequent Biggest Challenges cited by organizations.
 
 6.How do challenges vary by AI adoption level or organization type?
+
+<img width="1920" height="1020" alt="Project explanation and presentation and 1 more page - Personal - Microsoft​ Edge 11-10-2025 22_10_41" src="https://github.com/user-attachments/assets/2ad791c6-1edb-4f73-a1e4-0f80e4f5f88f" />
+
 
 ### C. Budget & Impact
 7.Distribution of AI Budgets by organization type or country.
@@ -100,7 +104,8 @@ df_exploded.head()
 - Ethical concerns and budget constraints are the top challenges, followed by integration issues and talent shortages.
   
 ## 🖼️ Dashboard Preview
-<img width="1920" height="1019" alt="Life Science AI-Survey Data 11-10-2025 21_41_51" src="https://github.com/user-attachments/assets/e272e812-0f24-46c4-adda-53a0a31d0dd8" />
+
+<img width="1920" height="1019" alt="Life Science Project 15-10-2025 21_15_50" src="https://github.com/user-attachments/assets/0c184a3e-dee3-41aa-b7a1-43b2ea20d7a5" />
 
 
 ## 📂 Files Included
